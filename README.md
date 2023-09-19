@@ -2,7 +2,7 @@
 
 **EXPERIENCE THE THRILL OF THE RING WITH OUR REALISTIC VR BOXING GAME - A PRODUCT OF XREV STUDIO**
 
-![VR Boxing Game Banner](images/VR_Boxing_Game_Banner.png)
+![VR Boxing Game Banner](images/BoxingVR.jpg)
 
 ## About VR Boxing Game
 
