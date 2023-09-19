@@ -32,18 +32,14 @@ Step into the ring with our VR Boxing Game, a physics-based virtual reality expe
 - **Physics-Based Mechanics**: Experience realistic boxing gameplay with physics-based mechanics.
 - **Intuitive Controls**: Control your character with intuitive VR gestures that mimic real boxing moves.
 - **Stunning Graphics**: Be captivated by the stunning graphics that bring the boxing ring to life.
-- **Multiplayer Mode**: Challenge friends and players from around the world in the multiplayer mode.
+
 
 ## Gallery
 
 ![VR Boxing Game Screenshot 1](images/BoxingVR2.jpg)
 ![VR Boxing Game Screenshot 2](images/BoxingVR3.jpg)
 
-## Links
 
-- [Download on Playstore](link_to_google_play_store_page_of_game)
-- [Official Website](link_to_website)
-- [User Guide](link_to_user_guide)
 
 ---
 
