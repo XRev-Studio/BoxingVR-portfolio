@@ -39,7 +39,10 @@ Step into the ring with our VR Boxing Game, a physics-based virtual reality expe
 ![VR Boxing Game Screenshot 1](images/BoxingVR2.jpg)
 ![VR Boxing Game Screenshot 2](images/BoxingVR3.jpg)
 
+## Video Showcase
 
+<a href="https://www.youtube.com/watch?v=WskphRmo31g" target="_blank"><img src="https://img.youtube.com/vi/WskphRmo31g/0.jpg" 
+alt="Ball Sort Game Video 1" width="240" height="180" border="10" /></a>
 
 ---
 
