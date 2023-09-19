@@ -36,8 +36,8 @@ Step into the ring with our VR Boxing Game, a physics-based virtual reality expe
 
 ## Gallery
 
-![VR Boxing Game Screenshot 1](images/VR_Boxing_Game_Screenshot1.png)
-![VR Boxing Game Screenshot 2](images/VR_Boxing_Game_Screenshot2.png)
+![VR Boxing Game Screenshot 1](images/BoxingVR2.jpg)
+![VR Boxing Game Screenshot 2](images/BoxingVR3.jpg)
 
 ## Links
 
